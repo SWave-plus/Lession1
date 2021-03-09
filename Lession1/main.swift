@@ -78,4 +78,6 @@ while yearTotal > 0 {
     yearTotal -= 1
 }
 
+// Выводим результат
 print("Ваша сумма вклада составит: \(money)")
+
